@@ -1,4 +1,4 @@
-# try
+# example
 
 solution of the following problem:
 
